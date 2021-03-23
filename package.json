@@ -1,0 +1,12 @@
+{
+  "name": "dropdown",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.2"
+  },
+  "dependencies": {
+    "downshift": "^6.1.1"
+  }
+}
